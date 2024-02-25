@@ -1,1 +1,2 @@
 # WBsells
+Недопиленный парсер Wildberries.
